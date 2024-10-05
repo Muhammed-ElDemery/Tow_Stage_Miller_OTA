@@ -5,7 +5,6 @@
   ### 2- Cadence Virtuoso
 ## Specs required:
 ### Supply voltage: 1.8V
-### Open loop DC gain: 34 dB
 ### CMRR: 74 dB
 ### PM: 70 deg
 ### GBW: 10 MHz
